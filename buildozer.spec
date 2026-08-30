@@ -10,6 +10,7 @@ requirements = python3,pygame
 orientation = portrait
 fullscreen = 1
 android.permissions = INTERNET
+android.accept_sdk_license = True
 
 [buildozer]
 log_level = 2
